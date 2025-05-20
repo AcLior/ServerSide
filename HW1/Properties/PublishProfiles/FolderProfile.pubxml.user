@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\aclio\source\repos\HW1\HW1\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2025-05-20T17:39:28.2632538Z;True|2025-04-29T23:15:59.9616821+03:00;True|2025-04-17T00:19:00.3822402+03:00;True|2025-04-07T14:54:14.6300176+03:00;True|2025-04-07T14:37:12.6436737+03:00;True|2025-04-07T14:32:48.7327370+03:00;True|2025-04-07T12:23:42.4145650+03:00;True|2025-04-07T12:19:23.0323523+03:00;True|2025-03-31T17:17:58.8630014+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
